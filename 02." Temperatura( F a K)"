@@ -5,7 +5,7 @@ int main() {
     int f,k;
     cout << "Ingrese un valor en f:";
     cin >> f;
-c=k-32/1.8+273;
-cout<<"El valor en k es :"<<c;
+K=k-32/1.8+273;
+cout<<"El valor en k es :"<<k;
 returno 0;
 }
