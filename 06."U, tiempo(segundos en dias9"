@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int dias,segundos;
+    cout << "Ingrese un valor en dias:";
+    cin >> dias;
+segundos =dias*24*3600;
+cout<<"El valor en segundos es :"<<segundos;
+returno 0;
+}
