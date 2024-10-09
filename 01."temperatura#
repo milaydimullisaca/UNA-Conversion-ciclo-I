@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int k,c;
+    cout << "Ingrese un valor en k: ";
+    cin >> k;
+c=k-273;
+cout<<"El valor en c es :"<<c;
+returno 0;
+}
