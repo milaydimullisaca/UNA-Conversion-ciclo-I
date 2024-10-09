@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int kb,gb;
+    cout << "Ingrese un valor en kb:";
+    cin >> kb;
+gb=kb/1024/1024;
+cout<<"El valor en gb es :"<<gb;
+returno 0;
+}
